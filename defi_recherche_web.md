@@ -26,12 +26,16 @@
 * Qui est Linus Torvalds ? 
   * Quelles sont ses plus grands développements ?
 * Combien coûte un nom de domaine ?
+* Quelle est votre adress IP actuelle ?
+ * Et celle de votre smartphone ?
 * Qu’est-ce que le développement en cycle V ?
 * Les Hackers sont-ils des hors-la-loi ?
 * Qu’est-ce que Agile Manifesto ?
 * Trouvez un screenshot de la première version de Facebook
 * Qu’est que l’Open Source ?
 * Qu’est-ce que le Bug Bounty ?
+* Qu'est-ce qu'une adresse IP v4 ?
+ * Pourquoi parle-t-on aussi d'adresse IP v6 ?
 * Combien coûte un serveur pour héberger mon site perso ?
 * Qu’est-ce que le Cowboy coding ?
 * Quelles sont les différences entre un software open-source et un software free ?
@@ -42,6 +46,8 @@
 * Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
 * Que sont les White Hat et les Black Hat ?
 * Qu’est-ce qu’une attaque DDoS ?
+* Quelles est l'adresse MAC de votre ordinateur ?
+ * Et de votre smartphone ?
 * Trouvez 5 entreprises qui recrutent sur Toulouse un développeur web junior
 * Qui est Tim Berners-Lee ?
 * Qu’est-ce que KISS ?
