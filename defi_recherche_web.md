@@ -1,7 +1,8 @@
 # Objectifs
 * apprendre à effectuer une recherche efficace sur Internet
 * savoir synthétiser du contenu
-* 
+* mesurer la crédibilité et la fiabilité d'une source 
+* acquérir une culture générale autour du web
 
 # Défi
 * Par qui, quand, pourquoi et où a été inventé Internet ?
@@ -59,7 +60,7 @@
 * Quelles sont les nouveautés apportée par le HTML 5 ?
 * Qu’est-ce que ECMAScript 2015 ?
 *  Quelles nouveautés par rapport à la version précédente ? 
-* Quelles différences avec ES 6 ?
+ * Quelles différences avec ES 6 ?
 * Quelles sont les différences entre application native, application hybride, application cross-platform et web application ?
 * Qu’est-ce que xkcd ?
 * Qu’est-ce que Mr Robot ?
