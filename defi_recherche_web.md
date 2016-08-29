@@ -14,7 +14,10 @@
   * 127.0.0.1
 * Que sont le copyright et le copyleft ?
 * Que sont les Creatives Commons ?
+* Qui est Grace Hopper ?
 * Qu'est-ce que Qwant ?
+* Qui est Steve Wozniak ?
+* D'où vient l'expression "bug informatique" ?
 * Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
 * Quels sont les prochains rendez-vous tech de Toulouse ?
 * Qui est Aaron Swartz ?
@@ -22,6 +25,7 @@
 * Quelles sont les différences entre le Http et le Https ?
 * Qui est Richard Stallman ?
 * Comment fonctionnent les bang de Duck Duck Go ?
+* Qui est Marissa Mayer ?
 * Qu’est-ce qu’une attaque “brute force” ?
 * Qui est Linus Torvalds ? 
   * Quelles sont ses plus grands développements ?
@@ -30,6 +34,8 @@
  * Et celle de votre smartphone ?
 * Qu’est-ce que le développement en cycle V ?
 * Les Hackers sont-ils des hors-la-loi ?
+* Qui a inventé la souris ?
+* Qui est Margaret Hamilton ?
 * Qu’est-ce que Agile Manifesto ?
 * Trouvez un screenshot de la première version de Facebook
 * Qu’est que l’Open Source ?
