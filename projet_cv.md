@@ -12,6 +12,7 @@ Réaliser une page web CV, reprenant tous les éléments d'un CV classique : par
 # Steps
 ## Comprendre les objectifs et les besoins
 * Dessiner des wireframes de la page et les intéractions possibles
+	* [Guide to wireframing](http://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399)
 * Planifier les étapes de développement (objectif, livrable et date de livraison)
 
 ## Html
