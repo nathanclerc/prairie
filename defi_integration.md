@@ -1,5 +1,5 @@
 # Défi intégration
-Le but est de réaliser un site web à partir des wireframes fournis dans le dossier **/defi_integration**. En situation professionnelle, un graphiste sera souvent amené à dessiner un site que vous devrez ensuite intégrer.
+Le but est de réaliser un site web à partir des wireframes fournis dans le dossier [**/defi_integration**](https://github.com/SimplonTlse02/prairie/tree/master/defi_integration). En situation professionnelle, un graphiste sera souvent amené à dessiner un site que vous devrez ensuite intégrer.
 
 # Objectifs pédagogiques
 * Intégrer un wireframe en site web
