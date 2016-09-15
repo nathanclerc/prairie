@@ -69,7 +69,7 @@
 * Qui est Phil Zimmermann ?
 * Qu’est-ce que le W3C ?
 * Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
-* Amine cherche un article qui a lu au sujet d'une personne qui évoque la difficulté de planifier précisément le développement en utilisant une métaphore d'une personne organisant une grande marche pour rejoindre un ami. Il aurait lu cet article sur Quora. Retrouvez cet article.
+* Amine cherche un article qu'il a lu au sujet d'une personne qui évoque la difficulté de planifier précisément le développement en utilisant une métaphore d'une personne organisant une grande marche pour rejoindre un ami, situé à plusieurs centaines de kilomètres. Il aurait lu cet article sur Quora. Retrouvez cet article et lisez-le :)
 * Que sont les White Hat et les Black Hat ?
 * Qu’est-ce qu’une attaque DDoS ?
 * Quelles est l'adresse MAC de votre ordinateur ?
@@ -83,6 +83,7 @@
 * Qu’est-ce qu’Amazon Web Services - AWS ?
 * Qui est Sundar Pichai ?
 * Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
+* Qu'est-ce qu'une Cheatsheet ?
 * Combien de requêtes y-a-t-il sur Google toutes les minutes ?
 * Qu’est-ce que les joies du code ?
 * Qui sont Larry Page et Sergey Brin ?
