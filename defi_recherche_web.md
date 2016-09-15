@@ -40,7 +40,7 @@
 * Qui est Marissa Mayer ?
 * Qu’est-ce qu’une attaque “brute force” ?
 * Qui est Linus Torvalds ? 
-  * Quelles sont ses plus grands développements ?
+  * Quels sont ses plus grands développements ?
 * Combien coûte un nom de domaine ?
 * Quels sont les différents services d'emailing disponibles ?
   * Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
