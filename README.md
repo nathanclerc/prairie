@@ -72,65 +72,170 @@ Linux, Git,Subsurface
 Cela varie en 8 et 12€. Netissime
 
     Quels sont les différents services d'emailing disponibles ?
-
+Personalisation du mail suivant la boite mail, cibler les utilisateurs suivant le fournisseur d'adresse mail. Taux de clic, taux d'ouverture, inscription, associé le compte à google analytics, SpamAssasin.
         Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
+
     Quelle est votre adress IP actuelle ?
+192.168.1.141. Le terminal
+
     Et celle de votre smartphone ?
+Non disponible Les réglages de mon tel.
+
     Qu’est-ce que le développement en cycle V ?
+Le modèle du cycle en V (par comparaison avec les méthodes dites agiles) est un modèle conceptuel de gestion de projet imaginé à la suite du problème de réactivité du modèle en cascade. Il permet, en cas d'anomalie, de limiter un retour aux étapes précédentes. Les phases de la partie montante doivent renvoyer de l'information sur les phases en vis-à-vis lorsque des défauts sont détectés, afin d'améliorer le logiciel.Wikipédia
+
     Les Hackers sont-ils des hors-la-loi ?
+Non Wikipédia
+
     Qui a inventé la souris ?
+Douglas Engelbart Wikipédia
+
     Qui est Margaret Hamilton ?
+Margaret Heafield Hamilton, née Heafield le 17 août 19361, est une informaticienne, ingénieure système et chef d'entreprise américaine.Wikipédia
+
     Retrouvez le code source de la mission Apollo 11.
         Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
+
     Qu’est-ce que Agile Manifesto ?
+C'est un texte qui regroupe les convention de la méthode agile. Wikipédia
+
     Trouvez un screenshot de la première version de Facebook
-    Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
+http://blog.shareaholic.com/wp-content/uploads/2012/05/Facebook-Screenshot-2004.jpg
+
+    Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?45 % de part de marché. Il est suivi par Windows Server 2012 (24 %), juste devant Windows Server 2003 avec 18 % de part de marché. Les instances Red Hat Enterprise Linux ne représentent que 1 % de part de marché contre 11 % pour les autres systèmes serveur Linux. Developpez.com
+
     Qu'est-ce que le load balancing ?
+La répartition de charges. Wikipédia
+
     Qu’est-ce que l’Open Source ?
+C'est metttre à disposition le code source de quelques choses gratuitement. Mon cerveau
+
     Qu’est-ce que le Bug Bounty ?
+ça permet à des personnes de recevoir reconnaissance et compensation après avoir reporté des bugs. Wikipédia
+
     Qu'est-ce qu'une adresse IP v4 ?
+C'est la première version d'Internet Protocol (IP) à avoir été largement déployée. Wikipédia
+
     Pourquoi parle-t-on aussi d'adresse IP v6 ?
+C'est un autre protocole de commmunication. Wikipédia
+
     Combien coûte un serveur pour héberger mon site perso ?
+5€ par mois et gratuit avec un nom de domaine pourris.Mon cerveau
+
     Qu’est-ce que le Cowboy coding ?
+C'est quand le développeurs a le controle total d'un projet. Wikipédia
+
     Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
+Javascript, Python, Java
+
     Quelles sont les différences entre un software open-source et un software free ?
+Software open source on peut reprendre et modifié le code source du softaware alors que free beh on a juste le droit d'utilisé le software.Mon cerveau
+
     Trouvez trois entreprises qui développent des solutions Free & OpenSource
         comment gagnent-elles de l’argent ?
+Snapchat c'est free et c'est la pub qui rapporte de l'argent.
+Github c'est open source elle se paye grace à des formules payante.
+
     Qui est Phil Zimmermann ?
+C'est un scientifique américain, créateur du Pretty Good Privacy (PGP), le logiciel de chiffrement de courrier électronique le plus utilisé au monde.Wikipédia
+
     Qu’est-ce que le W3C ?
+C'est un organisme de standardisation à but non lucratif.Wikipédia
+
     Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
+400h. Webrankinfo
+
     Amine cherche un article qu'il a lu au sujet d'une personne qui évoque la difficulté de planifier précisément le développement en utilisant une métaphore d'une personne organisant une grande marche pour rejoindre un ami, situé à plusieurs centaines de kilomètres. Il aurait lu cet article sur Quora. Retrouvez cet article et lisez-le :)
+
     Que sont les White Hat et les Black Hat ?
+Les white hat sont de bon hackers qui avertisse des failles et les black hat sont les hackers qui profite des failles qu'ils trouvent. Wikipédia
+
     Qu’est-ce qu’une attaque DDoS ?
+C'est une attaque informatique ayant pour but de rendre indisponible un service. Wikipédia
+
     Quelles est l'adresse MAC de votre ordinateur ?
+28:D2:44:05:06:17
+
     Et de votre smartphone ?
+10:44:00:80:41:A5
+
     Trouvez 5 entreprises qui recrutent sur Toulouse un développeur web junior
+Cagemini, taleez, progressive, clarisys, CGI. Indeed
+
     Qui est Tim Berners-Lee ?
+C'est l'inventeur du W3C. Wikipédia
+
     Comment sont reliés les différents réseaux d'internet ?
+Par des cables. Mon cerveau
+
     Qu’est-ce que KISS ?
+Keep it simple, stupid (en français, mot à mot : « garde ça simple, idiot »).Wikipédia
+
     Un antivirus est-il utile sous Windows ? Sous Mac ? Sous Linux ?
+Oui et non.
+
     En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
+C'est une technique de gestion du temps. Wikipédia
+Avantages surprime la distraction pendant le travail. Inconvénients trop de temps de pauses.
+
     Qu’est-ce qu’Amazon Web Services - AWS ?
+C'est les services de cloud d'amazon, stockage puissances de calcul diffusion de contenue.... Amazon
+
     Qui est Sundar Pichai ?
+C'est un dirigeant d'entreprise indo-américain et président-directeur général de Google. Wikipédia
+
     Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
+Windows 89%, Mac OS 9,2% et Linux 1,5%. Numerama
+
     Qu'est-ce qu'une Cheatsheet ?
+Feuille de triche, de rappel. Orélien Chirot
+
     Combien de requêtes y-a-t-il sur Google toutes les minutes ?
+3,5millions de recherches. Journal du geek
+
     Qu’est-ce que les joies du code ?
+un site qui répertories les gif pour les développeur
+
     Qui sont Larry Page et Sergey Brin ?
+Les créateur de google.Mon cerveau
+
     Convertissez en binaire
         2, 5, 12, 25, 512
+10, 101, 1100, 11001, 1000000000
+
     Convertissez en hexadécimal
         2, 5, 12, 25, 512
+2, 5, C, 19, 200
+
     Convertissez du binaire vers le système “classique” (base 10)
         100, 1011, 11111, 11110110101
+4, 11, 31, 1973
+
     Quelles sont les nouveautés apportées par le HTML 5 ?
+Un allégement du code, Nouvelles balises, les nouveaux éléments de formulaire, Balises supprimées. Aurone.com
+
     Qu’est-ce que ECMAScript 2015 ?
+C'est un standard édité par Ecma International qui permet de définir le fonctionnement de différents langages de programmation dont le JavaScript.grafikart
+
     Quelles nouveautés par rapport à la version précédente ?
+De nouvelles méthodes
+
     Quelles différences avec ES 6 ?
+
     Quelles sont les différences entre application native, application hybride, application cross-platform et web application ?
+L'application native est développé spécifiquement pour un os, l 'hybride utilise le navigateur web intégré, cross platform est utilisable sur différents plateformes, web application est un appli manipulable directement en ligne. Wikipédia
+
     Qu’est-ce que xkcd ?
+C'est une bande dessinée en ligne
+
     Qu’est-ce que Mr Robot ?
+C'est un hacker d'une série
+
     Qu’est-ce que OpQuast ?
+C'est l'organisme qui distribue les certification professionnel
+
     Quelles sont les différences entre un client web et un serveur web ?
         Donnez 3 exemples de chaque
+e lieu d’exécution des scripts a un impact sur la structure des projets Web. Plus les scripts sont transférés dans le navigateur responsable pour traitement, plus le site Internet ou l’application devient alors « rationalisé » pour le serveur. Cela réduit considérablement la charge sur les ressources du serveur, mais il peut cependant provoquer une perte de performance pour l’utilisateur. En outre, les développeurs sont confrontés à une complexité accrue quand seul JavaScript côté client est utilisé, car cela nécessite de répliquer de nombreux mécanismes de framework puissants comme ASP.NET MVC. D’autres problèmes peuvent survenir parce-que le script côté client nécessite que le navigateur prenne en charge tous les langages de script et les fonctionnalités installées par l’utilisateur, sans aucune application de blocage. 1and1
+
 
